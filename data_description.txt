@@ -1,0 +1,9 @@
+Following is the basic data processing steps for this code:
+(1) There are four files .sent, .tup, and .pointer for train, dev, and test data.
+(2) .sent file contains the PubMed abstracts line by line.
+(3) .tup file contains the interaction tuples separated the special separatators as shown in Table 1 of our BIBM22 paper for word level decoding. Each line in this file corresponds to the line of .sent file.
+(4) .pointer file contains the interaction tuples as shown in Table 1 of our BIBM22 for pointer level decoding. Each line in this file corresponds to the line of .sent file.
+(5) interactions.txt contains all the interactions (one at each line).
+(6) w2v.txt is the output of Word2Vec. It contains the word vectors of dimension 300.
+
+Please see the DrugProt data files for more information.
