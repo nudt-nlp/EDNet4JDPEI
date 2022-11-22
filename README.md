@@ -1,6 +1,6 @@
 # EDNet4JDPEI
 
-This repository contains the source code of the paper "Efficient Encoder-Decoder Architecture-Based Modeling for Joint Drug-Protein Entities and Interactions Extraction" published in BIBM 2022.
+This repository contains the source code of the paper "Efficient Encoder-Decoder Architecture-Based Modeling for Joint Drug-Protein Entities and Interactions Extraction" submitted to Briefings in Bioinformatics.
 
 ### Datasets ###
 
@@ -11,8 +11,8 @@ https://drive.google.com/drive/folders/1YjD9T4ySu-lKNu5yKoWoGHl7XLeJ0Oew?usp=sha
 ### Requirements ###
 
 1) python 3.7
-2) pytorch 1.9
-3) CUDA 11.3
+2) pytorch 1.13
+3) CUDA 11.7
 
 ### How to run ###
 
